@@ -1,0 +1,19 @@
+{
+  "name": "sprout",
+  "version": "1.0.0",
+  "description": "An all-in-one decentralized family planner that helps households stay in touch with what's important.",
+  "main": "./sprout-server/main.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kingstonv1/Sprout.git"
+  },
+  "author": "Kingston V.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingstonv1/Sprout/issues"
+  },
+  "homepage": "https://github.com/kingstonv1/Sprout#readme"
+}
