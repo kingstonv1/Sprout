@@ -1,0 +1,33 @@
+.navbar {
+  background-color: #435065;
+  border-bottom: 2px solid #4caf50;
+  height: 10vh;
+  width: 100%;
+  vertical-align: top;
+  right: 0;
+}
+
+.navbar .center_div {
+  margin: auto;
+  width: fit-content;
+  height: auto;
+  overflow: auto;
+}
+
+.navbar .logo_container {
+  width: auto;
+  float: left;
+  height: 100%;
+  overflow: auto;
+}
+
+.navbar .icon {
+  height: 75%;
+  margin-top: 1vh;
+}
+
+.logo_text {
+  color: white;
+}
+
+/*# sourceMappingURL=navbar.css.map */

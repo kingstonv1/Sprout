@@ -1,4 +1,7 @@
 * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
   font-family: Roboto;
 }
 
@@ -7,7 +10,7 @@ p {
 }
 
 .canvas_main {
-  background-color: #484454;
+  background-color: #201c2c;
 }
 
 /*# sourceMappingURL=index.css.map */
